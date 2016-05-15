@@ -33,7 +33,7 @@ The script is written in Python3, and should work on Windows/Linux/OSX. It has b
 It is also possible to do that manually, but there are in total more than 640 files to download and rename. Better scripting than having to do tedious things.
 
 # Usage
-install Python3 on your machine
-Update config.json with your own login/password
-> python scrap.py
+- if not already present, install Python3 on your machine
+- Update config.json with your own guitaredomination.com login/password
+- then, in a shell, type: python scrap.py
 
