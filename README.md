@@ -1,6 +1,6 @@
 # ScrapGuitareDomination
-Video and audio files scrapping from www.guitaredomination.com
-Edit on 3/5/2018: the site seems to be definitely down
+Video and audio files scrapping from www.guitaredomination.com  
+**Edit on 3/5/2018**: the site seems to be definitely down  
 
 # Background
 
